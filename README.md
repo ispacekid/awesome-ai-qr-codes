@@ -8,7 +8,7 @@
 
 - [Tutorials](#tutorials)
 - [Generators](#generators)
-- [Stable Diffusion Models and Plugins](#stable-diffusion-models-and-plugins)
+- [Stable Diffusion Models and Extensions](#stable-diffusion-models-and-extensions)
 - [Community](#community)
 
 ## Tutorials
@@ -25,6 +25,7 @@
 ###### Other
 
 - [How to generate a QR code with Stable Diffusion](https://stable-diffusion-art.com/qr-code/) by [Andrew](https://stable-diffusion-art.com/author/andrewon2/)
+- [How to Create QR Code Art using Stable Diffusion](https://ihsavru.medium.com/how-to-create-qr-code-art-using-stable-diffusion-58c5e7e55fcb) by [Urvashi](https://ihsavru.medium.com/)
 - [如何制作一个漂亮的二维码](https://mp.weixin.qq.com/s/_Oy9I9FqPXhfwN9IUhf6_g) (Chinese) by [nhciao (ciaochaos)](https://github.com/ciaochaos)
 
 ### Videos
@@ -39,6 +40,7 @@
 
 - [QRBTF.AI](https://qrbtf.com/ai) by [nhciao (ciaochaos)](https://github.com/ciaochaos) - Beta testing, URL cannot be changed.
 - [Quick QR Art](https://beta.quickqr.art/generate)
+- [Artistic AI QR Code Generator](https://openart.ai/apps/ai_qrcode)
 
 ###### Discord Bot
 
@@ -56,14 +58,26 @@
 
 - [QRBTF Classic](https://classic.qrbtf.com/) by [nhciao (ciaochaos)](https://github.com/ciaochaos) - With rich parametric styles, SVG-based QR code generation capabilities.
 
-## Stable Diffusion Models and Plugins
+## Stable Diffusion Models and Extensions
 
 ### ControlNet Models
 
+###### Featured
+
 - [QR Code Monster v1 (CivitAI)](https://civitai.com/models/111006?modelVersionId=119698) by [Monster labs](https://huggingface.co/monster-labs) - The most used and relatively better ControlNet model at present.
 - [QR Code Monster v1 (Hugging Face)](https://huggingface.co/monster-labs/control_v1p_sd15_qrcode_monster) by [Monster labs](https://huggingface.co/monster-labs)
-- [IoC Lab ControlNet Brightness Model(Hugging Face)](https://huggingface.co/ioclab/ioc-controlnet/tree/main/models) by [IoC Lab](https://huggingface.co/ioclab)
+- [IoC Lab ControlNet Brightness Model (Hugging Face)](https://huggingface.co/ioclab/ioc-controlnet) by [IoC Lab](https://huggingface.co/ioclab) - Used as the auxiliary model to improve the local contrast.
+
+###### Other
+
 - [QR Pattern (CivitAI)](https://civitai.com/models/90940/controlnet-qr-pattern-qr-codes) by [Nacholmo](https://civitai.com/user/Nacholmo)
+- [QR Code Conditioned ControlNet (Hugging Face)](https://huggingface.co/DionTimmer/controlnet_qrcode-control_v1p_sd15) by [Dion Timmer](https://huggingface.co/DionTimmer)
+- [Tile (Hugging Face)](https://huggingface.co/lllyasviel/ControlNet-v1-1/blob/main/control_v11f1e_sd15_tile.pth) by [Kakigōri Maker](https://github.com/Mikubill)
+
+### Extensions
+
+- [sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) by [Kakigōri Maker](https://github.com/Mikubill) - The WebUI extension for ControlNet and other injection-based SD controls.
+- [sd-webui-qrcode-toolkit](https://github.com/antfu/sd-webui-qrcode-toolkit) by [Anthony Fu](https://antfu.me/) - Extension for Stable Diffusion WebUI, provides integration with Anthony's QR Toolkit for easy image sending.
 
 ## Community
 
