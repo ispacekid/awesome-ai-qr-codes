@@ -34,27 +34,27 @@
 
 ## Generators
 
-### AI QR Code Art Generator
+### AI QR Code Art Generators
 
-###### Web
+###### Web Services
 
 - [QRBTF.AI](https://qrbtf.com/ai) by [nhciao (ciaochaos)](https://github.com/ciaochaos) - Beta testing, URL cannot be changed.
 - [Quick QR Art](https://beta.quickqr.art/generate)
 - [Artistic AI QR Code Generator](https://openart.ai/apps/ai_qrcode)
 
-###### Discord Bot
+###### Discord Bots
 
 - [QRBTF Bot](https://discord.gg/V9CNuqYfte)
 - [Quick QR Art Bot](https://top.gg/bot/1117660105962438706)
 
-### QR Code Editing Tool
+### QR Code Editing Tools
 
-###### AI QR Code Editing Tool
+###### AI QR Code Editing Tools
 
 - [Anthony Fu's QR Toolkit](https://qrcode.antfu.me/) by [Anthony Fu](https://antfu.me/) - Specially designed for AI QR codes with powerful customization capabilities and a high update frequency.
 - [Quick QR Art](https://quickqr.art/)
 
-###### Classical QR Code Editing Tool
+###### Classical QR Code Editing Tools
 
 - [QRBTF Classic](https://classic.qrbtf.com/) by [nhciao (ciaochaos)](https://github.com/ciaochaos) - With rich parametric styles, SVG-based QR code generation capabilities.
 
