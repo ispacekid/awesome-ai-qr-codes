@@ -8,7 +8,7 @@
 
 - [教程](#教程)
 - [生成工具](#生成工具)
-- [Stable Diffusion 模型与插件](#stable-diffusion-模型与插件)
+- [Stable Diffusion 模型与扩展](#stable-diffusion-模型与扩展)
 - [社区](#社区)
 
 ## 教程
@@ -25,6 +25,7 @@
 ###### 其他
 
 - [How to generate a QR code with Stable Diffusion](https://stable-diffusion-art.com/qr-code/) by [Andrew](https://stable-diffusion-art.com/author/andrewon2/)
+- [How to Create QR Code Art using Stable Diffusion](https://ihsavru.medium.com/how-to-create-qr-code-art-using-stable-diffusion-58c5e7e55fcb) by [Urvashi](https://ihsavru.medium.com/)
 - [如何制作一个漂亮的二维码](https://mp.weixin.qq.com/s/_Oy9I9FqPXhfwN9IUhf6_g) by [nhciao (ciaochaos)](https://github.com/ciaochaos)
 
 ### 视频
@@ -39,6 +40,7 @@
 
 - [QRBTF.AI](https://qrbtf.com/ai) by [nhciao (ciaochaos)](https://github.com/ciaochaos) - Beta 测试中，URL 不可更改。
 - [Quick QR Art](https://beta.quickqr.art/generate)
+- [Artistic AI QR Code Generator](https://openart.ai/apps/ai_qrcode)
 
 ###### Discord 机器人
 
@@ -56,14 +58,26 @@
 
 - [QRBTF Classic](https://classic.qrbtf.com/) by [nhciao (ciaochaos)](https://github.com/ciaochaos) - 具备丰富的参数化样式、基于 SVG 的二维码生成能力。
 
-## Stable Diffusion 模型与插件
+## Stable Diffusion 模型与扩展
 
 ### ControlNet 模型
 
+###### 精选
+
 - [QR Code Monster v1 (CivitAI)](https://civitai.com/models/111006?modelVersionId=119698) by [Monster labs](https://huggingface.co/monster-labs) - 目前使用量最大、效果相对更好的 ControlNet 模型。
 - [QR Code Monster v1 (Hugging Face)](https://huggingface.co/monster-labs/control_v1p_sd15_qrcode_monster) by [Monster labs](https://huggingface.co/monster-labs)
-- [IoC Lab ControlNet Brightness Model(Hugging Face)](https://huggingface.co/ioclab/ioc-controlnet/tree/main/models) by [IoC Lab](https://huggingface.co/ioclab)
+- [IoC Lab ControlNet Brightness Model (Hugging Face)](https://huggingface.co/ioclab/ioc-controlnet/tree/main/models) by [IoC Lab](https://huggingface.co/ioclab) - 经常作为辅助 ControlNet 模型来提高局部对比度。
+
+###### 其他
+
 - [QR Pattern (CivitAI)](https://civitai.com/models/90940/controlnet-qr-pattern-qr-codes) by [Nacholmo](https://civitai.com/user/Nacholmo)
+- [QR Code Conditioned ControlNet (Hugging Face)](https://huggingface.co/DionTimmer/controlnet_qrcode-control_v1p_sd15) by [Dion Timmer](https://huggingface.co/DionTimmer)
+- [Tile (Hugging Face)](https://huggingface.co/lllyasviel/ControlNet-v1-1/blob/main/control_v11f1e_sd15_tile.pth) by [Kakigōri Maker](https://github.com/Mikubill)
+
+### 扩展
+
+- [sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) by [Kakigōri Maker](https://github.com/Mikubill) - ControlNet 和其他基于注入的 Stable Diffusion WebUI 扩展。
+- [sd-webui-qrcode-toolkit](https://github.com/antfu/sd-webui-qrcode-toolkit) by [Anthony Fu](https://antfu.me/) - Stable Diffusion WebUI 的扩展，集成网页版 Anthony Fu's QR Toolkit，以便于轻松发送图像。
 
 ## 社区
 
