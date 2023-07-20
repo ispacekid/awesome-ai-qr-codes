@@ -40,6 +40,7 @@
 
 - [QRBTF.AI](https://qrbtf.com/ai) by [nhciao (ciaochaos)](https://github.com/ciaochaos) - Beta 测试中，URL 不可更改。
 - [Quick QR Art](https://beta.quickqr.art/generate)
+- [QRCode Monster](https://qrcode.monster/) by [Monster labs](https://huggingface.co/monster-labs) - Monster Labs 官方 AI 二维码生成器。
 - [Artistic AI QR Code Generator](https://openart.ai/apps/ai_qrcode)
 
 ###### Discord 机器人
@@ -64,7 +65,7 @@
 
 ###### 精选
 
-- [QR Code Monster v1 (CivitAI)](https://civitai.com/models/111006?modelVersionId=119698) by [Monster labs](https://huggingface.co/monster-labs) - 目前使用量最大、效果相对更好的 ControlNet 模型。
+- [QR Code Monster v1 (CivitAI)](https://civitai.com/models/111006?modelVersionId=119698) by [Monster labs](https://huggingface.co/monster-labs) - 目前使用量最大、效果相对更好的 AI 二维码 ControlNet 模型。
 - [QR Code Monster v1 (Hugging Face)](https://huggingface.co/monster-labs/control_v1p_sd15_qrcode_monster) by [Monster labs](https://huggingface.co/monster-labs)
 - [IoC Lab ControlNet Brightness Model (Hugging Face)](https://huggingface.co/ioclab/ioc-controlnet/tree/main/models) by [IoC Lab](https://huggingface.co/ioclab) - 经常作为辅助 ControlNet 模型来提高局部对比度。
 
