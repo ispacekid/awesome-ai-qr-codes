@@ -40,6 +40,7 @@
 
 - [QRBTF.AI](https://qrbtf.com/ai) by [nhciao (ciaochaos)](https://github.com/ciaochaos) - Beta testing, URL cannot be changed.
 - [Quick QR Art](https://beta.quickqr.art/generate)
+- [QRCode Monster](https://qrcode.monster/) by [Monster labs](https://huggingface.co/monster-labs) - Official AI QR Code Art Generator by Monster Labs.
 - [Artistic AI QR Code Generator](https://openart.ai/apps/ai_qrcode)
 
 ###### Discord Bots
@@ -64,7 +65,7 @@
 
 ###### Featured
 
-- [QR Code Monster v1 (CivitAI)](https://civitai.com/models/111006?modelVersionId=119698) by [Monster labs](https://huggingface.co/monster-labs) - The most used and relatively better ControlNet model at present.
+- [QR Code Monster v1 (CivitAI)](https://civitai.com/models/111006?modelVersionId=119698) by [Monster labs](https://huggingface.co/monster-labs) - The most used and relatively better AI QR Code ControlNet model at present.
 - [QR Code Monster v1 (Hugging Face)](https://huggingface.co/monster-labs/control_v1p_sd15_qrcode_monster) by [Monster labs](https://huggingface.co/monster-labs)
 - [IoC Lab ControlNet Brightness Model (Hugging Face)](https://huggingface.co/ioclab/ioc-controlnet) by [IoC Lab](https://huggingface.co/ioclab) - Used as the auxiliary model to improve the local contrast.
 
