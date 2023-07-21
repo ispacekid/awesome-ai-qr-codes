@@ -65,6 +65,7 @@
 
 ###### 精选
 
+- [QR Code Monster v2 (CivitAI)](https://civitai.com/models/111006?modelVersionId=122143) by [Monster labs](https://huggingface.co/monster-labs) - 相比 QR Code Monster V1，提升了二维码可被成功扫描的概率。
 - [QR Code Monster v1 (CivitAI)](https://civitai.com/models/111006?modelVersionId=119698) by [Monster labs](https://huggingface.co/monster-labs) - 目前使用量最大、效果相对更好的 AI 二维码 ControlNet 模型。
 - [QR Code Monster v1 (Hugging Face)](https://huggingface.co/monster-labs/control_v1p_sd15_qrcode_monster) by [Monster labs](https://huggingface.co/monster-labs)
 - [IoC Lab ControlNet Brightness Model (Hugging Face)](https://huggingface.co/ioclab/ioc-controlnet/tree/main/models) by [IoC Lab](https://huggingface.co/ioclab) - 经常作为辅助 ControlNet 模型来提高局部对比度。
