@@ -65,6 +65,7 @@
 
 ###### Featured
 
+- [QR Code Monster v2 (CivitAI)](https://civitai.com/models/111006?modelVersionId=122143) by [Monster labs](https://huggingface.co/monster-labs) - Compared with QR Code Monster V1, the probability that the QR code can be successfully scanned is improved.
 - [QR Code Monster v1 (CivitAI)](https://civitai.com/models/111006?modelVersionId=119698) by [Monster labs](https://huggingface.co/monster-labs) - The most used and relatively better AI QR Code ControlNet model at present.
 - [QR Code Monster v1 (Hugging Face)](https://huggingface.co/monster-labs/control_v1p_sd15_qrcode_monster) by [Monster labs](https://huggingface.co/monster-labs)
 - [IoC Lab ControlNet Brightness Model (Hugging Face)](https://huggingface.co/ioclab/ioc-controlnet) by [IoC Lab](https://huggingface.co/ioclab) - Used as the auxiliary model to improve the local contrast.
